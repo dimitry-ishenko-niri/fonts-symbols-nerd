@@ -1,0 +1,5 @@
+fonts-symbols-nerd (3.4.0-1) UNRELEASED; urgency=medium
+
+  * Initial release. (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Thu, 04 Jun 2026 12:56:21 -0400

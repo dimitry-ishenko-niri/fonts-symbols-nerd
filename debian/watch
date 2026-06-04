@@ -1,0 +1,4 @@
+Version: 5
+Search-Mode: plain
+Source: https://api.github.com/repos/ryanoasis/nerd-fonts/releases?per_page=50
+Matching-Pattern: https://github.com/ryanoasis/nerd-fonts/releases/download/v?@ANY_VERSION@/NerdFontsSymbolsOnly.tar.xz
