@@ -1,3 +1,9 @@
+fonts-symbols-nerd (3.5.0-1) unstable; urgency=medium
+
+  * New upstream version 3.5.0
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Tue, 04 Aug 2026 10:12:02 -0400
+
 fonts-symbols-nerd (3.4.0-1) unstable; urgency=medium
 
   * Add Debian release workflow
